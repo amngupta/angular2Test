@@ -10,4 +10,4 @@ Base code to start the project was retrieved from [Angular Quickstart Repo] (htt
 - [x] Master / Details
 - [x] Services
 - [x] Routing
-- [] HTTP
+- [ ] HTTP
